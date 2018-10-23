@@ -1,2 +1,3 @@
 # Business Card Scanner
-scan business cards and scrape them for information
+Scans a business card and gets relevant information from it and dds it into a contact
+
